@@ -29,9 +29,9 @@ Eave consists of three core components and many subcomponents.
 ### Team members
 John and Johann will be the major contributors for the build out of the Eave Testnet
 
-John -
-Johann - 
-Duane - 
+- John: 
+- Johann:
+- Duane:
 
 Additional team members will be announced shortly and contributing to this and other components of Eave.
 
