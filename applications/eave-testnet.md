@@ -6,7 +6,7 @@
 
 ## Project Overview :page_facing_up: 
 
-### Overview
+### Overview - The Best Project Ever
 
 Efficient Aggregration Value Engine (Eave) is a DeFi Platform focused on the aggregation and exchange of digital assets from multiple chains.
 
